@@ -12,6 +12,11 @@ public class Triangulo extends Figura {
 		this.setLado3(lado3);
 	}
 	
+	
+	
+	
+	//Testando alteração no código
+	
 	@Override
 	public double calcularArea() {
 		
